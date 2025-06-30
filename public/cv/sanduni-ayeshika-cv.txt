@@ -1,0 +1,112 @@
+SANDUNI AYESHIKA
+Software Engineering Undergraduate
++94769991200|sanduniayeshika4@gmail.com|linkedin.com|medium.com|github.com
+
+Summary
+Passionate Software Engineering undergraduate with a solid foundation in web development, object oriented programming,
+and software design principles. With strong problem solving, teamwork, and leadership abilities, I eager to contribute to
+dynamic development teams and gain practical industry experience as a software engineering intern.
+
+Education
+University of Kelaniya                                                                    Kelaniya, Sri Lanka
+BSc. (Hons) Software Engineering                                                         July 2023 – Present
+GPA: 3.32/4.00
+
+IMBS Green Campus                                                                         Gampaha, Sri Lanka
+Diploma in English                                                                        July 2023 – October 2024
+
+Ananda Central College                                                                    Elpitiya, Galle
+Advanced Level                                                                            2018 – 2021
+
+Projects
+E-Commerce Website (in-progress)                                                          May 2025 - Present
+Individual Project                                                    MongoDB, Express.js, React, Node.js
+Developing a full-stack e-commerce web application with strong problem-solving, teamwork, and leadership abilities. Eager to
+contribute using the MERN stack, including user authentication, product management, and responsive UI design. Worked on setting
+up backend APIs, connecting with MongoDB database, and designing frontend components in React.
+GitHub Repo
+
+Habit Tracker App                                                                         May 2025 - April 2025
+Individual Project                                                            React Native, TypeScript
+Developed a mobile Habit Tracker application using React Native CLI and TypeScript. Implemented local user authentication, habit
+creation, daily/weekly progress tracking with charts, and a calendar-based streak view. Utilized AsyncStorage for data persistence
+and React Navigation for seamless screen transitions.
+GitHub Repo
+
+Portfolio project                                                                         May 2025 - April 2025
+Individual Project                                                            HTML, CSS, JavaScript
+Developed and hosted a personal portfolio website featuring a creative homepage, about section, project showcase, and contact
+form. Utilized third-party libraries and deployed the site via GitHub Pages with version control managed through Git.
+GitHub Repo
+
+Fuel Management System                                                                    January 2025 - February 2025
+Group Project                                                     React, Spring Boot, JWT, Tailwind CSS
+Developed a React and Spring Boot based fuel station management system. Implemented features for fuel stock management,
+transaction reporting, and role-based user authentication using JWT. Created a responsive, interactive frontend and integrated it
+with RESTful APIs.
+GitHub Repo
+
+Liquor Shop Project                                                                       Oct 2024 – Nov 2024
+Group Project                                                     HTML, CSS, JavaScript, PHP, MySQL
+Developed a role-based e-commerce platform for liquor stores using HTML, CSS, JavaScript, PHP, and MySQL. Implemented
+customer, supplier, and admin dashboards with functionalities including product management, order tracking, supplier approvals,
+and financial reporting.
+GitHub Repo
+
+Technical Skills
+Frontend: HTML, CSS, Tailwind CSS, JavaScript, React.js, React Native
+Backend: Node.js, Express.js
+Database: MySQL, MongoDB
+Tools: GitHub (Git), Jira, Power BI, Postman, Figma
+
+Soft Skills
+Strategic Time Management
+Collaborative Leadership
+Innovative Problem-Solving
+Adaptive Communication
+Creative Decision-Making
+
+Experience
+Assistant English Teacher                                                                 Oct 2022 – June 2024
+The Ceylon Kingdom English Academy                                                        Elpitiya, Galle
+
+Languages
+English — Professional Proficiency
+Sinhala — Native Proficiency
+
+Achievements
+Top 10 - Junior Hack 6.0, 2025                                                          February 2025
+Software Engineering Students' Association, University of Kelaniya
+
+Top 10 - Paramount 3.0, Mathematics Competition                                          February 2024
+Mathematics Students' Society, University of Kelaniya
+
+Participant - RealHack 2024                                                             January 2024
+Software Engineering Students' Association , University of Kelaniya
+
+Volunteer Experience
+Editor, FEMINA Project                                                                   2024 – 2025
+Leo Club , University of Kelaniya
+
+Leadership Training Officer                                                              2022 – 2024
+Saviya Youth Foundation , The Ceylon Kingdom English Academy
+
+Volunteer                                                                                2022 – 2023
+Sasnaka Sansadaya Foundation , Galle
+
+References
+Dr. Nalin Warnajith
+Head/ Senior Lecturer
+Software Engineering Teaching Unit,
+Faculty of Science,
+University of Kelaniya.
+Phone: +94717570140
+Email: nwarnajith@kln.ac.lk
+
+Dr. (Mrs.) Isuru Hewapathirana
+Senior Lecturer
+Software Engineering Teaching Unit,
+Faculty of Science,
+University of Kelaniya.
+Phone: +94777329626
+Email: ihewapathirana@kln.ac.lk
